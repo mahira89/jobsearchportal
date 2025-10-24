@@ -1,0 +1,16 @@
+# Compiled classes
+build/
+*.class
+
+# Eclipse files
+.settings/
+.project
+.classpath
+
+# Dependency sources
+src/main/WebContent/WEB-INF/lib/src/
+
+# Other exclusions
+*.log
+*.tmp
+.DS_Store
